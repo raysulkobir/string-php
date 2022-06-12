@@ -1,0 +1,4 @@
+<?php
+    $paragraph = "With decades \n of maintenance of way expertise and experience,  \n no one knows the rail like Loram. Today, with our Loram Technologies business group, we’re leveraging our accumulated data, analytics and maintenance algorithms with advanced inspection technologies to provide you actionable intelligence with real-time monitoring and the most precise application of maintenance of way activities. In this new era of digital insight, interval-based maintenance is a thing of the past. Loram delivers on the promise of truly targeted, agile and data-driven solutions, offering unsurpassed efficiency, predictability and return on your maintenance investment";
+
+ echo nl2br($paragraph);
